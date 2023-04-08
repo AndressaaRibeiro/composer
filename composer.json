@@ -1,0 +1,15 @@
+{
+    "name": "andressa/composer",
+    "autoload": {
+        "psr-4": {
+            "Andressa\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andressa Ribeiro",
+            "email": "andressahastings@hotmail.com"
+        }
+    ],
+    "require": {}
+}
